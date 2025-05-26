@@ -1,8 +1,6 @@
-# ✅ Tema 1 
+# Tema 1 
 
----
-
-## 🔹 Exercițiul 1:
+## 🔹Exercițiul 1:
 
 ### Cerință:
 1. Se citește de la tastatură un număr întreg `n`, aflat în intervalul `[0, 5]`.  
@@ -17,9 +15,9 @@
 ```text
 Input:  [2, 4, 1, 5, 3]
 Output: [3, 5, 1, 4, 2]
+```
 
-
-## 🔹 **Exercițiul 2:**
+## 🔹**Exercițiul 2:**
 
 ### **Cerință:**
 
@@ -45,3 +43,4 @@ Implementați o aplicație Java în care:
    Array2 initial: [6, 4, 2, 8]
    Array2 sortat crescator: [2, 4, 6, 8]
    Output: [1, 1, 2, 3, 4, 4, 6, 7, 8, 9]
+```
