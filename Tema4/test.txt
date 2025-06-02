@@ -1,0 +1,10 @@
+Acesta este un fisier de test pentru demonstrarea operatiilor.
+Contine mai multe cuvinte de lungimi diferite.
+Cuvantul supercalifragilisticexpialidocious este foarte lung.
+Programarea in Java este interesanta si educativa.
+
+=== Conținutul clasei FileProcessor.java ===
+package fileoperations;
+import java.io.*;
+import java.util.*;
+public class FileProcessor { ... }

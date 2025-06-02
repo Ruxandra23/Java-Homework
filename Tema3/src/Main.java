@@ -45,7 +45,7 @@ public class Main {
 
         System.out.println("\n=== Test Mixt ===");
 
-   
+
         CounterOutTask.resetCounter();
 
         Container mixContainer = new Stack();
